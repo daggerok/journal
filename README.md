@@ -7,4 +7,8 @@ video.
 
 [[toc]]
 
-TBD
+## Crude Oil
+[ICT Crude Oil Journal](./CL/) 
+
+## NASDAQ
+[ICT NASDAQ Journal](./NQ/) 
