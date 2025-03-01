@@ -1,4 +1,4 @@
-# ICT Journals
+# ICT Journals [![GitHub Pages](https://github.com/daggerok/journal/actions/workflows/pages.yml/badge.svg)](https://github.com/daggerok/journal/actions/workflows/pages.yml)
 This is my [ICT journal](https://daggerok.github.io/journal/) with Top-Down analysis, based on HTF (High Timeframe) and
 Continuous Contracts.
 
